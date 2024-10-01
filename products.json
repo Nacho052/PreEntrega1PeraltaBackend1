@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "botin",
+    "description": "calzado con tapones",
+    "code": "Nh4u8stx0",
+    "price": 12000,
+    "status": true,
+    "stock": 24,
+    "category": "ropa",
+    "thumbnail": [
+      "https://http2.mlstatic.com/D_653199-MLA77415896283_072024-O.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "remera",
+    "description": "camiseta negra con lineas blancas",
+    "code": "U8hBñkG83",
+    "price": 7000,
+    "status": true,
+    "stock": 7,
+    "category": "ropa",
+    "thumbnail": [
+      "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7db57e9f7e1344b8bfecace92ef28dd9_9366/remera-adicolor-pique-futbol-manga-larga.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "agua",
+    "description": "Agua mineral",
+    "code": "hUS73B0sv",
+    "price": 750,
+    "status": true,
+    "stock": 41,
+    "category": "FastFood",
+    "thumbnails": []
+  }
+]
